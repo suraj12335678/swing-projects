@@ -1,4 +1,4 @@
-***Java
+```Java
 
 package projects;
 
@@ -95,4 +95,4 @@ public class reverse extends JFrame {
 		contentPane.add(btn1);
 	}
 }
-***
+```
