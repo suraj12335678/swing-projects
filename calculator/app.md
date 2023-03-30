@@ -1,3 +1,5 @@
+```java
+
 package swing_project;
 
 import java.awt.EventQueue;
@@ -163,3 +165,4 @@ public class calculator extends JFrame {
 		contentPane.add(b1);
 	}
 }
+```
